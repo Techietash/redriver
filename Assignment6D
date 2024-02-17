@@ -1,0 +1,85 @@
+# redriver
+Criteria and Importance Ranking:
+
+Simplicity & Ease of Setup (5)
+Speed & Performance (4)
+Cross-Platform Compatibility (5)
+Single-User Access (5)
+Easy Backup & Portability (5)
+Cost Effectiveness (5)
+Python Compatibility (5)
+Evaluation of Databases:
+
+MSSQL
+
+Simplicity & Ease of Setup: 1
+Speed & Performance: 4
+Cross-Platform Compatibility: 1
+Single-User Access: 5
+Easy Backup & Portability: 1
+Cost Effectiveness: 1
+Python Compatibility: 4
+Oracle
+
+Simplicity & Ease of Setup: 1
+Speed & Performance: 4
+Cross-Platform Compatibility: 1
+Single-User Access: 5
+Easy Backup & Portability: 1
+Cost Effectiveness: 1
+Python Compatibility: 4
+SQLite
+
+Simplicity & Ease of Setup: 5
+Speed & Performance: 5
+Cross-Platform Compatibility: 5
+Single-User Access: 5
+Easy Backup & Portability: 5
+Cost Effectiveness: 5
+Python Compatibility: 5
+MySQL (or MariaDB)
+
+Simplicity & Ease of Setup: 4
+Speed & Performance: 4
+Cross-Platform Compatibility: 4
+Single-User Access: 5
+Easy Backup & Portability: 4
+Cost Effectiveness: 4
+Python Compatibility: 5
+PostgreSQL
+
+Simplicity & Ease of Setup: 4
+Speed & Performance: 4
+Cross-Platform Compatibility: 5
+Single-User Access: 5
+Easy Backup & Portability: 4
+Cost Effectiveness: 4
+Python Compatibility: 5
+Microsoft Access
+
+Simplicity & Ease of Setup: 4
+Speed & Performance: 3
+Cross-Platform Compatibility: 2
+Single-User Access: 5
+Easy Backup & Portability: 4
+Cost Effectiveness: 3
+Python Compatibility: 1
+LibreOffice Base
+
+Simplicity & Ease of Setup: 3
+Speed & Performance: 3
+Cross-Platform Compatibility: 5
+Single-User Access: 5
+Easy Backup & Portability: 3
+Cost Effectiveness: 5
+Python Compatibility: 3
+Calculations:
+
+SQLite: 5 * 5 * 5 * 5 * 5 * 5 * 5 = 3125
+MySQL (or MariaDB): 4 * 4 * 4 * 5 * 4 * 4 * 5 = 2560
+PostgreSQL: 4 * 4 * 5 * 5 * 4 * 4 * 5 = 3200
+Microsoft Access: 4 * 3 * 2 * 5 * 4 * 3 * 1 = 720
+LibreOffice Base: 3 * 3 * 5 * 5 * 3 * 5 * 3 = 2025
+
+Based on the evaluation and calculations, SQLite seems to be the most suitable database for this phase of the project. 
+It scores the highest in terms of meeting the specified criteria and requirements.# redriver
